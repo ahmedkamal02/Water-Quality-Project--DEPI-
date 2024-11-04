@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Quality Evaluation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Evaluate Water Quality</h1>
+        <form action="/evaluate" method="POST">
+            <!-- pH Input -->
+            <div class="input-group">
+                <label for="ph">pH:</label>
+                <input type="number" step="0.01" name="ph" placeholder="Potable water has a pH between 0.0 to 14.0" required>
+            </div>
+
+            <!-- Hardness Input -->
+            <div class="input-group">
+                <label for="hardness">Hardness (mg/L):</label>
+                <input type="number" step="0.01" name="hardness" placeholder="Safe water has hardness between 47.43 to 323.12 mg/L" required>
+            </div>
+
+            <!-- Solids Input -->
+            <div class="input-group">
+                <label for="solids">Solids (ppm):</label>
+                <input type="number" step="0.01" name="solids" placeholder="Potable water has solids between 320.94 to 61,227.20 ppm" required>
+            </div>
+
+            <!-- Chloramines Input -->
+            <div class="input-group">
+                <label for="chloramines">Chloramines (ppm):</label>
+                <input type="number" step="0.01" name="chloramines" placeholder="Chloramines in potable water: 0.35 to 13.13 ppm" required>
+            </div>
+
+            <!-- Sulfate Input -->
+            <div class="input-group">
+                <label for="sulfate">Sulfate (ppm):</label>
+                <input type="number" step="0.01" name="sulfate" placeholder="Safe sulfate range: 129.00 to 481.03 ppm" required>
+            </div>
+
+            <!-- Conductivity Input -->
+            <div class="input-group">
+                <label for="conductivity">Conductivity (µS/cm):</label>
+                <input type="number" step="0.01" name="conductivity" placeholder="Conductivity: 181.48 to 753.34 µS/cm" required>
+            </div>
+
+            <!-- Organic Carbon Input -->
+            <div class="input-group">
+                <label for="organic_carbon">Organic Carbon (ppm):</label>
+                <input type="number" step="0.01" name="organic_carbon" placeholder="Organic Carbon: 2.20 to 28.30 ppm" required>
+            </div>
+
+            <!-- Trihalomethanes Input -->
+            <div class="input-group">
+                <label for="trihalomethanes">Trihalomethanes (µg/L):</label>
+                <input type="number" step="0.01" name="trihalomethanes" placeholder="Safe Trihalomethanes: 0.74 to 124.00 µg/L" required>
+            </div>
+
+            <!-- Turbidity Input -->
+            <div class="input-group">
+                <label for="turbidity">Turbidity (NTU):</label>
+                <input type="number" step="0.01" name="turbidity" placeholder="Turbidity: 1.45 to 6.74 NTU" required>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn">Evaluate</button>
+        </form>
+
+        <!-- Water Quality Standards Section -->
+        <h2>Here’s how we can interpret the impact of each parameter:</h2>
+        <ul>
+            <li><strong>pH:</strong> pH measures the acidity of the water.</li>
+            <li><strong>Hardness (mg/L):</strong> Hardness is a measure of calcium and magnesium ions in the water. Higher levels of hardness can affect potability, but it's generally not harmful unless it exceeds a very high threshold.</li>
+            <li><strong>Solids (ppm):</strong> Total dissolved solids (TDS) reflect the concentration of dissolved substances in the water. High solids can indicate contamination.</li>
+            <li><strong>Chloramines (ppm):</strong> Chloramines are used for disinfection. Too high levels could make the water harmful.</li>
+            <li><strong>Sulfate (ppm):</strong> High sulfate levels may cause water to taste bitter and have a laxative effect.</li>
+            <li><strong>Conductivity (µS/cm):</strong> This measures the water's ability to conduct electrical current, which is related to the number of ions in the water. High conductivity can indicate high TDS levels, suggesting contamination.</li>
+            <li><strong>Organic Carbon (ppm):</strong> Organic carbon indicates the presence of organic compounds in the water. Higher levels can be associated with contamination or decay of organic material.</li>
+            <li><strong>Trihalomethanes (µg/L):</strong> Trihalomethanes (THMs) are a byproduct of water disinfection, and high levels can be harmful.</li>
+            <li><strong>Turbidity (NTU):</strong> Turbidity measures the clarity of the water. High turbidity can indicate particles that may harbor pathogens.</li>
+        </ul>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+1. pH
+* Definition: pH is a measure of how acidic or basic water is. The scale ranges from 0 to 14, with 7 being neutral. Values below 7 indicate acidity, and values above 7 indicate alkalinity.
+* Importance: The pH of water affects chemical reactions and the health of aquatic organisms. For drinking water, a pH between 6.5 and 8.5 is generally considered safe.
+2. Hardness (mg/l)
+* Definition: Hardness measures the concentration of calcium and magnesium salts in water, usually expressed in milligrams per liter (mg/l).
+* Importance: Hard water can cause scaling in pipes and appliances, while soft water can be corrosive. Water hardness is typically categorized as soft (0-60 mg/l), moderately hard (61-120 mg/l), hard (121-180 mg/l), and very hard (>180 mg/l).
+3. Solids (mg/l)
+* Definition: This refers to Total Dissolved Solids (TDS), which measures the combined content of all inorganic and organic substances in water, such as minerals, salts, metals, and ions, in milligrams per liter.
+* Importance: High levels of solids can affect the taste of water and potentially indicate pollution. Drinking water typically should have a TDS level below 500 mg/l.
+4. Chloramines (mg/l)
+* Definition: Chloramines are disinfectants used to treat drinking water. They are formed by combining chlorine with ammonia.
+* Importance: Chloramines are used as a disinfectant in public water supplies to kill bacteria and viruses. Safe levels of chloramines in drinking water are typically below 4 mg/l.
+5. Sulfate (mg/l)
+* Definition: Sulfate (SO?�?) is a naturally occurring substance found in minerals, soil, and rocks. It can enter water through the leaching of rocks and soil.
+* Importance: High concentrations of sulfate can give water a bitter taste and have a laxative effect on people. The recommended limit for sulfate in drinking water is below 250 mg/l.
+6. Conductivity (?S/cm)
+* Definition: Conductivity is a measure of the water�s ability to conduct electricity, which depends on the concentration of ions (salts, minerals, etc.) dissolved in the water. It is measured in microsiemens per centimeter (?S/cm).
+* Importance: Conductivity is an indicator of the amount of dissolved solids in water. Higher conductivity indicates higher levels of dissolved substances, which can affect water quality.
+7. Organic Carbon (mg/l)
+* Definition: Total Organic Carbon (TOC) is a measure of the amount of carbon in organic compounds in water. It includes both naturally occurring organic compounds and contaminants.
+* Importance: High TOC levels can indicate pollution from organic matter such as decaying plants or chemicals. Water treatment plants monitor TOC to ensure that it doesn't react with disinfectants to form harmful byproducts.
+8. Trihalomethanes (?g/l)
+* Definition: Trihalomethanes (THMs) are a group of chemicals that form when chlorine (used to disinfect water) reacts with organic matter present in the water. THMs are measured in micrograms per liter (?g/l).
+* Importance: Long-term exposure to high levels of THMs has been linked to cancer and liver, kidney, and central nervous system problems. The limit for THMs in drinking water is usually set at 80 ?g/l.
+9. Turbidity (NTU)
+* Definition: Turbidity is a measure of the cloudiness or haziness of water caused by particles that are generally invisible to the naked eye, such as silt, clay, algae, and microorganisms. It is measured in Nephelometric Turbidity Units (NTU).
+* Importance: High turbidity can indicate the presence of disease-causing organisms like bacteria and viruses. For drinking water, the acceptable turbidity level is typically below 1 NTU.
+
+1. الرقم الهيدروجيني
+التعريف: الرقم الهيدروجيني هو مقياس لمدى حمضية أو قاعدية الماء. يتراوح المقياس من 0 إلى 14، حيث يمثل الرقم 7 درجة محايدة. تشير القيم الأقل من 7 إلى الحموضة، وتشير القيم الأعلى من 7 إلى القلوية.
+الأهمية: يؤثر الرقم الهيدروجيني للماء على التفاعلات الكيميائية وصحة الكائنات المائية. بالنسبة لمياه الشرب، يعتبر الرقم الهيدروجيني بين 6.5 و8.5 آمنًا بشكل عام.
+2. العسر (ملغ/ل)
+التعريف: يقيس العسر تركيز أملاح الكالسيوم والمغنيسيوم في الماء، وعادة ما يتم التعبير عنه بالمليجرام لكل لتر (ملغ/ل).
+الأهمية: يمكن أن تتسبب المياه العسرة في حدوث ترسبات في الأنابيب والأجهزة، في حين يمكن أن تكون المياه العذبة تآكلية. يتم تصنيف عسر الماء عادةً على أنه عسر (0-60 مجم/ل)، وعسر متوسط ​​(61-120 مجم/ل)، وعسر (121-180 مجم/ل)، وعسر للغاية (>180 مجم/ل).
+3. المواد الصلبة (ملغ/ل)
+التعريف: يشير هذا إلى المواد الصلبة الذائبة الكلية (TDS)، والتي تقيس المحتوى المشترك لجميع المواد غير العضوية والعضوية في الماء، مثل المعادن والأملاح والمعادن والأيونات، بالملليجرام لكل لتر.
+الأهمية: يمكن أن تؤثر المستويات العالية من المواد الصلبة على طعم الماء وقد تشير إلى التلوث. يجب أن يكون مستوى المواد الصلبة الذائبة الكلية في مياه الشرب عادةً أقل من 500 مجم/ل.
+4. الكلورامينات (ملغ/ل)
+التعريف: الكلورامينات هي مطهرات تستخدم لمعالجة مياه الشرب. وهي تتكون من خلال الجمع بين الكلور والأمونيا.
+الأهمية: تستخدم الكلورامينات كمطهر في إمدادات المياه العامة لقتل البكتيريا والفيروسات. المستويات الآمنة للكلورامينات في مياه الشرب عادة ما تكون أقل من 4 مجم/ل.
+5. الكبريتات (ملغ/ل)
+التعريف: الكبريتات (SO₄²⁻) هي مادة تحدث بشكل طبيعي وتوجد في المعادن والتربة والصخور. يمكن أن يدخل الماء من خلال غسل الصخور والتربة.
+الأهمية: يمكن أن تعطي تركيزات عالية من الكبريتات الماء طعمًا مرًا ولها تأثير ملين على الناس. الحد الموصى به للكبريتات في مياه الشرب أقل من 250 ملغ / لتر.
+6. الموصلية (μS / سم)
+التعريف: الموصلية هي مقياس لقدرة الماء على توصيل الكهرباء، والتي تعتمد على تركيز الأيونات (الأملاح والمعادن وما إلى ذلك) المذابة في الماء. يتم قياسها بالميكروسيمنز لكل سنتيمتر (μS / سم).
+الأهمية: الموصلية هي مؤشر لكمية المواد الصلبة المذابة في الماء. تشير الموصلية الأعلى إلى مستويات أعلى من المواد المذابة، والتي يمكن أن تؤثر على جودة المياه.
+7. الكربون العضوي (mg / l)
+التعريف: الكربون العضوي الكلي (TOC) هو مقياس لكمية الكربون في المركبات العضوية في الماء. ويشمل كل من المركبات العضوية الطبيعية والمواد الملوثة.
+الأهمية: يمكن أن تشير مستويات TOC العالية إلى التلوث الناجم عن المواد العضوية مثل النباتات المتحللة أو المواد الكيميائية. تراقب محطات معالجة المياه TOC للتأكد من أنها لا تتفاعل مع المطهرات لتكوين منتجات ثانوية ضارة.
+8. ثلاثي الهالوميثان (μg/l)
+التعريف: ثلاثي الهالوميثان (THMs) هي مجموعة من المواد الكيميائية التي تتكون عندما يتفاعل الكلور (المستخدم لتطهير المياه) مع المواد العضوية الموجودة في الماء. يتم قياس THMs بالميكروجرام لكل لتر (μg/l).
+الأهمية: تم ربط التعرض الطويل الأمد لمستويات عالية من THMs بالسرطان ومشاكل الكبد والكلى والجهاز العصبي المركزي. عادة ما يتم تحديد حد THMs في مياه الشرب عند 80 ميكروجرام / لتر.
+9. العكارة (NTU)
+التعريف: العكارة هي مقياس لعكارة أو ضبابية الماء الناجم عن جزيئات غير مرئية للعين المجردة عمومًا، مثل الطمي والطين والطحالب والكائنات الحية الدقيقة. يتم قياسها بوحدات العكارة النيفلوميترية (NTU).
+الأهمية: يمكن أن تشير العكارة العالية إلى وجود كائنات مسببة للأمراض مثل البكتيريا والفيروسات. بالنسبة لمياه الشرب، يكون مستوى العكارة المقبول عادة أقل من 1 وحدة NTU.

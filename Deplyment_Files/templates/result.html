@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluation Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+</head>
+
+<body>
+    <div class="result-container">
+        <h1>Water Quality Evaluation Result</h1>
+        <p>The water is: 
+            <strong class="{{ 'potable' if result == 'Potable' else 'not-potable' }}">
+                {{ result }}
+            </strong>
+        </p>
+
+        <h2>Input Parameters</h2>
+        <ul>
+            <li>pH: {{ ph }}</li>
+            <li>Hardness (mg/L): {{ hardness }}</li>
+            <li>Solids (mg/L): {{ solids }}</li>
+            <li>Chloramines (mg/L): {{ chloramines }}</li>
+            <li>Sulfate (mg/L): {{ sulfate }}</li>
+            <li>Conductivity (µS/cm): {{ conductivity }}</li>
+            <li>Organic Carbon (mg/L): {{ organic_carbon }}</li>
+            <li>Trihalomethanes (µg/L): {{ trihalomethanes }}</li>
+            <li>Turbidity (NTU): {{ turbidity }}</li>
+        </ul>
+
+        <a href="/" class="btn">Go back</a>
+    </div>
+</body>
+
+</html>
